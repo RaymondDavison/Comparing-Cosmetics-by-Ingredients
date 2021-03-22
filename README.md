@@ -11,7 +11,7 @@ Instead of buying and hoping for the best, we can use data science to help us pr
 
 This Project lets you apply the skills from Manipulating DataFrames with pandas, Chapter 1 of Dimensionality Reduction in Python, and Interactive Data Visualization with Bokeh. This Project also includes the concepts of natural language processing and word embedding, which you can learn about in Natural Language Processing Fundamentals in Python.
 
-Project Tasks
+## Project Tasks
 
 - Cosmetics, chemicals... it's complicated
 - Focus on one product category and one skin type
@@ -24,3 +24,10 @@ Project Tasks
 - Adding a hover tool
 - Mapping the cosmetic items
 - Comparing two products
+- 
+## Libraries
+
+#### pandas
+#### Numpy
+#### sklearn
+#### bokeh
